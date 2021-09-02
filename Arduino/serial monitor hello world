@@ -1,4 +1,4 @@
-/*Always remember to configure the Baud rate, correct COM port and correct Arduino board prior build and upload the project
+//Always remember to configure the Baud rate, correct COM port and correct Arduino board prior build and upload the project
 
 // the setup routine runs once when you press reset:
 void setup() {
