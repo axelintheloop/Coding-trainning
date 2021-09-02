@@ -8,9 +8,7 @@ void setup() {
 
 // the loop routine runs over and over again forever:
 void loop() {
-  // read the input on analog pin 0:
-  int sensorValue = analogRead(A0);
-  // print out the value you read:
+  // Hola mundo will be printed acording to baud rate and delay defined
   Serial.println("Hola mundo");
   delay(2000);        
 }
