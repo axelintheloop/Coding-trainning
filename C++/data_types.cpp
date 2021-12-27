@@ -33,6 +33,7 @@ int main() {
     
     // Concatenate and print the String variables on a new line
     // The 's' variable above should be printed first.
+}
     cout << s + frase << endl;
 
     return 0;
